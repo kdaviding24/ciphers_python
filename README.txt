@@ -1,0 +1,1 @@
+This repo contains 4 functions. Two of the functions are for encoding and decoding a caesar cipher. And two are for encoding and decoding a vigenere cipher. 
